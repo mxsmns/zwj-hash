@@ -1,7 +1,6 @@
 name: Pyhon package
 
 on:
-  - push
   - pull_request
 
 jobs:
